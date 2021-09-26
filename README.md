@@ -1,2 +1,2 @@
 # apoorvajhm.github.io
-static portfolio page
+static portfolio page created for CS291A course project
